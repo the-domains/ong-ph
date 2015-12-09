@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Ong.ph]]></title>
         <description><![CDATA[Ong.ph]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ong-ph/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Dec 2015 05:02:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Dec 2015 05:12:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ong-ph/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5018cb6e-f515-4006-8ca4-1596f8c1986b.JPG">]]></description>
+            <link>https://thegrid.ai/ong-ph/af7f18ff-2b51-4158-9c1d-03641e1ee14a/index.html</link>
+            <guid isPermaLink="false">af7f18ff-2b51-4158-9c1d-03641e1ee14a</guid>
+            <pubDate>Wed, 09 Dec 2015 05:12:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Test 1]]></title>
             <description><![CDATA[<article><h1>Test 1</h1><p>Test</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed155a01-eee3-4256-9a98-0166b79aa848.JPG"></article>]]></description>
-            <link>undefinedtest-1/index.html</link>
+            <link>https://thegrid.ai/ong-ph/test-1/index.html</link>
             <guid isPermaLink="false">74dfa6b9-2a44-4ff2-8c5e-0d2635a920c3</guid>
             <pubDate>Wed, 09 Dec 2015 05:02:31 GMT</pubDate>
         </item>
