@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ong.ph]]></title>
+        <description><![CDATA[Ong.ph]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 11 Feb 2016 03:39:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Qatar airway]]></title>
+            <description><![CDATA[<article><h1>Qatar airway</h1><p>Test again</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac451eb30734115afd43bd02f38841662b50548c.jpg"></article>]]></description>
+            <link>undefinedaf7f18ff-2b51-4158-9c1d-03641e1ee14a/index.html</link>
+            <guid isPermaLink="false">af7f18ff-2b51-4158-9c1d-03641e1ee14a</guid>
+            <pubDate>Thu, 11 Feb 2016 03:38:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
