@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Ong.ph]]></title>
         <description><![CDATA[Ong.ph]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ong-ph/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 03:39:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 11 Feb 2016 03:45:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ong-ph/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Qatar airway]]></title>
             <description><![CDATA[<article><h1>Qatar airway</h1><p>Test again</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac451eb30734115afd43bd02f38841662b50548c.jpg"></article>]]></description>
-            <link>undefinedaf7f18ff-2b51-4158-9c1d-03641e1ee14a/index.html</link>
+            <link>https://thegrid.ai/ong-ph/af7f18ff-2b51-4158-9c1d-03641e1ee14a/index.html</link>
             <guid isPermaLink="false">af7f18ff-2b51-4158-9c1d-03641e1ee14a</guid>
-            <pubDate>Thu, 11 Feb 2016 03:38:36 GMT</pubDate>
+            <pubDate>Thu, 11 Feb 2016 03:44:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
