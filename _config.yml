@@ -1,7 +1,7 @@
 name: Ong.ph
 favicon: null
-layout_spectrum: 0.23375
-typography_spectrum: 0.26951
+layout_spectrum: 0.49415
+typography_spectrum: 0.62431
 collections:
   - index:
       path: /
